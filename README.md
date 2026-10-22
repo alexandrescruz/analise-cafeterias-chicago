@@ -1,5 +1,8 @@
 # Onde abrir 4 novas cafeterias em Chicago?
 
+<img width="1165" height="538" alt="image" src="https://github.com/user-attachments/assets/5655add5-ae2c-4911-b900-c621b2c48fcf" />
+
+
 Análise geoespacial que usa a localização das bibliotecas públicas de Chicago como uma aproximação de áreas frequentadas por estudantes, leitores e pessoas que trabalham remotamente. O objetivo é comparar possíveis regiões para quatro novas cafeterias — não afirmar, apenas com esses dados, onde há maior demanda ou potencial de vendas.
 
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrescruz/analise-cafeterias-chicago/blob/main/Analise_cafeterias_chicago.ipynb)
